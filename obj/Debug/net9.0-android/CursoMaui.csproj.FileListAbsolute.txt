@@ -948,3 +948,4 @@ C:\Users\MSProd\source\repos\CursoMaui\CursoMaui\obj\Debug\net9.0-android\resize
 C:\Users\MSProd\source\repos\CursoMaui\CursoMaui\obj\Debug\net9.0-android\resizetizer\r\mipmap-xxxhdpi\splash_background.png
 C:\Users\MSProd\source\repos\CursoMaui\CursoMaui\obj\Debug\net9.0-android\resizetizer\r\mipmap-xxxhdpi\splash_foreground.png
 C:\Users\MSProd\source\repos\CursoMaui\CursoMaui\obj\Debug\net9.0-android\resizetizer\r\mipmap-xxxhdpi\splash_round.png
+C:\Users\MSProd\source\repos\CursoMaui\CursoMaui\obj\Debug\net9.0-android\CursoMaui.sourcelink.json

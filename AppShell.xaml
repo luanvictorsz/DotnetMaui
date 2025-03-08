@@ -4,12 +4,12 @@
     xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
     xmlns:local="clr-namespace:CursoMaui"
-    Shell.FlyoutBehavior="Flyout"
-    Title="CursoMaui">
+    Title="CursoMaui"
+    Shell.FlyoutBehavior="Flyout">
 
     <ShellContent
         Title="Home"
-        ContentTemplate="{DataTemplate local:HomePage}"
-        Route="HomePage" />
+        ContentTemplate="{DataTemplate local:NewPage1}"
+        Route="NewPage1" />
 
 </Shell>
