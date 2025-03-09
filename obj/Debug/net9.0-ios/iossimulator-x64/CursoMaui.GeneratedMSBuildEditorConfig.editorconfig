@@ -30,6 +30,12 @@ build_metadata.AdditionalFiles.ManifestResourceName = CursoMaui.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
+[C:/Users/MSProd/source/repos/CursoMaui/CursoMaui/LayoutExample.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CursoMaui.LayoutExample.xaml
+build_metadata.AdditionalFiles.TargetPath = LayoutExample.xaml
+build_metadata.AdditionalFiles.RelativePath = LayoutExample.xaml
+
 [C:/Users/MSProd/source/repos/CursoMaui/CursoMaui/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = CursoMaui.MainPage.xaml
