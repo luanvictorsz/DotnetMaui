@@ -1,11 +1,6 @@
 C:\Users\MSProd\source\repos\CursoMaui\CursoMaui\bin\Debug\net9.0-android\CursoMaui.runtimeconfig.json
 C:\Users\MSProd\source\repos\CursoMaui\CursoMaui\bin\Debug\net9.0-android\CursoMaui.dll
 C:\Users\MSProd\source\repos\CursoMaui\CursoMaui\bin\Debug\net9.0-android\CursoMaui.pdb
-C:\Users\MSProd\source\repos\CursoMaui\CursoMaui\bin\Debug\net9.0-android\com.companyname.cursomaui.apk
-C:\Users\MSProd\source\repos\CursoMaui\CursoMaui\bin\Debug\net9.0-android\com.companyname.cursomaui.aab
-C:\Users\MSProd\source\repos\CursoMaui\CursoMaui\bin\Debug\net9.0-android\com.companyname.cursomaui-Signed.aab
-C:\Users\MSProd\source\repos\CursoMaui\CursoMaui\bin\Debug\net9.0-android\com.companyname.cursomaui-Signed.apk
-C:\Users\MSProd\source\repos\CursoMaui\CursoMaui\bin\Debug\net9.0-android\com.companyname.cursomaui-Signed.apk.idsig
 C:\Users\MSProd\source\repos\CursoMaui\CursoMaui\bin\Debug\net9.0-android\Microsoft.Maui.Controls.HotReload.Forms.dll
 C:\Users\MSProd\source\repos\CursoMaui\CursoMaui\bin\Debug\net9.0-android\Microsoft.VisualStudio.DesignTools.MobileTapContracts.dll
 C:\Users\MSProd\source\repos\CursoMaui\CursoMaui\bin\Debug\net9.0-android\Microsoft.VisualStudio.DesignTools.TapContract.dll
@@ -123,10 +118,7 @@ C:\Users\MSProd\source\repos\CursoMaui\CursoMaui\obj\Debug\net9.0-android\CursoM
 C:\Users\MSProd\source\repos\CursoMaui\CursoMaui\obj\Debug\net9.0-android\CursoMaui.pdb
 C:\Users\MSProd\source\repos\CursoMaui\CursoMaui\obj\Debug\net9.0-android\CursoMaui.genruntimeconfig.cache
 C:\Users\MSProd\source\repos\CursoMaui\CursoMaui\obj\Debug\net9.0-android\CursoMaui.runtimeconfig.json.bin
-C:\Users\MSProd\source\repos\CursoMaui\CursoMaui\obj\Debug\net9.0-android\android\bin\com.companyname.cursomaui.apk
 C:\Users\MSProd\source\repos\CursoMaui\CursoMaui\obj\Debug\net9.0-android\android\bin\base.zip
-C:\Users\MSProd\source\repos\CursoMaui\CursoMaui\obj\Debug\net9.0-android\android\bin\com.companyname.cursomaui.aab
-C:\Users\MSProd\source\repos\CursoMaui\CursoMaui\obj\Debug\net9.0-android\android\bin\com.companyname.cursomaui.apks
 C:\Users\MSProd\source\repos\CursoMaui\CursoMaui\obj\Debug\net9.0-android\res\values\colors.xml
 C:\Users\MSProd\source\repos\CursoMaui\CursoMaui\obj\Debug\net9.0-android\R.txt
 C:\Users\MSProd\source\repos\CursoMaui\CursoMaui\obj\Debug\net9.0-android\uploadflags.txt
@@ -949,3 +941,12 @@ C:\Users\MSProd\source\repos\CursoMaui\CursoMaui\obj\Debug\net9.0-android\resize
 C:\Users\MSProd\source\repos\CursoMaui\CursoMaui\obj\Debug\net9.0-android\resizetizer\r\mipmap-xxxhdpi\splash_foreground.png
 C:\Users\MSProd\source\repos\CursoMaui\CursoMaui\obj\Debug\net9.0-android\resizetizer\r\mipmap-xxxhdpi\splash_round.png
 C:\Users\MSProd\source\repos\CursoMaui\CursoMaui\obj\Debug\net9.0-android\CursoMaui.sourcelink.json
+C:\Users\MSProd\source\repos\CursoMaui\CursoMaui\bin\Debug\net9.0-android\com.aeternus.maui.apk
+C:\Users\MSProd\source\repos\CursoMaui\CursoMaui\bin\Debug\net9.0-android\com.aeternus.maui.aab
+C:\Users\MSProd\source\repos\CursoMaui\CursoMaui\bin\Debug\net9.0-android\com.aeternus.maui-Signed.aab
+C:\Users\MSProd\source\repos\CursoMaui\CursoMaui\bin\Debug\net9.0-android\com.aeternus.maui-Signed.apk
+C:\Users\MSProd\source\repos\CursoMaui\CursoMaui\bin\Debug\net9.0-android\com.aeternus.maui-Signed.apk.idsig
+C:\Users\MSProd\source\repos\CursoMaui\CursoMaui\obj\Debug\net9.0-android\android\bin\com.aeternus.maui.apk
+C:\Users\MSProd\source\repos\CursoMaui\CursoMaui\obj\Debug\net9.0-android\android\bin\com.aeternus.maui.aab
+C:\Users\MSProd\source\repos\CursoMaui\CursoMaui\obj\Debug\net9.0-android\android\bin\com.aeternus.maui.apks
+C:\Users\MSProd\source\repos\CursoMaui\CursoMaui\obj\Debug\net9.0-android\android\src\com\aeternus\maui\R.java
