@@ -4,21 +4,53 @@
              x:Class="CursoMaui.MainPage"
              BackgroundColor="#fff"
              Title="MainPage">
-    <VerticalStackLayout 
-        VerticalOptions="Center" 
-        HorizontalOptions="Center">
+    
+        <VerticalStackLayout 
+        HorizontalOptions="Center"
+        VerticalOptions="Center">
+
         <Image 
             Source="lucknumber.png" 
             WidthRequest="74" 
             HeightRequest="115">
         </Image>
+
         <Label 
             Margin="0, 20, 0, 120" 
             Text="Número da Sorte"
             TextColor="#00AB37"
             VerticalOptions="Center" 
             HorizontalOptions="Center" />
+
+        <Label Text="O número da sorte é: " HorizontalOptions="Center" Margin="0, 20, 0, 0"/>
+        <HorizontalStackLayout Spacing="15" HorizontalOptions="Center" Margin="0, 60">
+            <Border Stroke="#00AB37" Padding="8, 5" StrokeShape="RoundRectangle 6">
+                <Label FontSize="24" Text="01" TextColor="#00AB37"/>
+            </Border>
+            <Border Stroke="#00AB37"  Padding="8, 5" StrokeShape="RoundRectangle 6">
+                <Label FontSize="24" Text="01" TextColor="#00AB37"/>
+            </Border>
+            <Border Stroke="#00AB37"  Padding="8, 5" StrokeShape="RoundRectangle 6">
+                <Label FontSize="24" Text="01" TextColor="#00AB37"/>
+            </Border>
+
+            <Border Stroke="#00AB37"  Padding="8, 5" StrokeShape="RoundRectangle 6">
+                <Label FontSize="24" Text="01" TextColor="#00AB37"/>
+            </Border>
+
+            <Border Stroke="#00AB37"  Padding="8, 5" StrokeShape="RoundRectangle 6">
+                <Label FontSize="24" Text="01" TextColor="#00AB37"/>
+            </Border>
+
+            <Border Stroke="#00AB37"  Padding="8, 5" StrokeShape="RoundRectangle 6">
+                <Label FontSize="24" Text="01" TextColor="#00AB37"/>
+            </Border>
+        </HorizontalStackLayout>
+
+
+        <Label Text="Boa Sorte!" HorizontalOptions="Center" Margin="0, 0, 0, 50"/>
+
         <Button Text="Gerar número da sorte" HorizontalOptions="Center"></Button>
-        
-    </VerticalStackLayout>
+
+        </VerticalStackLayout>
 </ContentPage>
