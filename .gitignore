@@ -1,0 +1,44 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+AppPackages/
+*.appxsym
+*.appxupload
+*.nupkg
+*.nuspec
+*.zip
+
+# MAUI / Xamarin
+*.apk
+*.aab
+*.iOS.* 
+*.app
+*.ipa
+
+# Rider
+.idea/
+
+# Mac
+.DS_Store
+
+# Logs
+*.log
+
+# Node / NPM (se usar algum frontend)
+node_modules/
+
+# Rider / JetBrains caches
+*.iml
+*.ipr
+*.iws
+
+# Others
+*.vsix
+*.dbmdl
